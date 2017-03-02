@@ -1,0 +1,2 @@
+# projectTC
+Student Management System
